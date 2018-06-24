@@ -6,7 +6,7 @@ This repo is part of my tutorial I've written up on [how to test React component
 1.  **unit-testing** - unit testing is included for Search and SearchResults components
 1.  **integration-testing** - integration testing included for SearchContainer component
 
-## Functional App Branch
+## Unit Testing Branch
 
 1.  Run `npm install`
 1.  Create `config.js` file and include the following:
@@ -18,3 +18,4 @@ This repo is part of my tutorial I've written up on [how to test React component
     You need to obtain the API key from the [Guardian website](http://open-platform.theguardian.com/access/) by signing up. Copy and paste your key where it says **YOUR_API_KEY**.
 
 1.  Run `npm start` to start the server
+1.  Run `npm test` to run unit tests
