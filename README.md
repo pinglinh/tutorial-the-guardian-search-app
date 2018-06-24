@@ -18,4 +18,5 @@ This repo is part of my tutorial I've written up on [how to test React component
     You need to obtain the API key from the [Guardian website](http://open-platform.theguardian.com/access/) by signing up. Copy and paste your key where it says **YOUR_API_KEY**.
 
 1.  Run `npm start` to start the server
-1.  Run `npm test` to run unit tests
+1.  Run `npm test` to run all tests
+1.  You can also run a test watcher with `npm run test:watch` or check your test coverage using `npm run test:coverage`.
